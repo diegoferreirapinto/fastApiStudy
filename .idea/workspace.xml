@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="367ded9e-ca96-4767-ab02-bb2d5e7b0f27" name="Changes" comment="test: test gitignore to do not commit .idea">
-      <change afterPath="$PROJECT_DIR$/Exercises/StringAssignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input/UserInput.py" afterDir="false" />
+    <list default="true" id="367ded9e-ca96-4767-ab02-bb2d5e7b0f27" name="Changes" comment="exercise: testing usefull functions to work with numbers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2dKvClZ0Gi5jsGNE23VtiDzUQz7" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,16 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.StringAssignment.executor": "Run",
-    "Python.UserInput.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.StringAssignment.executor&quot;: &quot;Run&quot;,
+    &quot;Python.UserInput.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.StringAssignment">
     <configuration name="StringAssignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="fastApiStudy" />
@@ -151,12 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709769760840</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="exercise: testing usefull functions to work with numbers">
+      <option name="closed" value="true" />
+      <created>1709775587515</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709775587515</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init: this is a fist commit" />
     <MESSAGE value="test: test gitignore to do not commit .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="test: test gitignore to do not commit .idea" />
+    <MESSAGE value="exercise: testing usefull functions to work with numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise: testing usefull functions to work with numbers" />
   </component>
 </project>
