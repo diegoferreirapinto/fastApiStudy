@@ -131,7 +131,7 @@ EXTEND
     print(numbers)
     
 INSERT
-    numbers.insert(2, 4)
+    numbers.insert(2, 3, 4)
     print(numbers)
 
 REMOVE
