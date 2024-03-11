@@ -40,7 +40,7 @@ people_list.insert(0,'Lenice')
 print(people_list)
 
 # But if we do not want to ADD some data, we can remove this data with
-# REMOVE function, to remove an specific data or we can just use POP function
+# REMOVE function, to remove a specific data or we can just use POP function
 # to delete using de INDEX. See the code.
 
 people_list.remove('Diego')
@@ -72,7 +72,7 @@ print(my_list)
 .count(element)                 -> retorna o número de ocorrência do elemento especificado
 .sort(key=none, reverse=false)  -> ordena os elementos da lista
 .reverse()                      -> inverte a ordem dos elementos na lista
-
+.copy()                         -> copia o conteúdo de um array para outro
 
 Exemplos: 
 
@@ -115,7 +115,11 @@ SORT
 REVERSE
     people_list.reverse()
     print(people_list)
-    
+
+COPY or [:]
+    nomes = ['Diego', 'Albino', 'Lenice']
+    outros_nomes = nomes.copy() // nomes[:]
+
 ====================================================
 Exemplos com números
 
