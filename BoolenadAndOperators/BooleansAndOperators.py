@@ -31,4 +31,4 @@ print(f"1 > 1 and 1 == 1 ? {1 > 1 and 1 == 1}")  # output: False
 print(f"1 >= 1 and 5 != 8 ? {1 >= 1 and 5 != 8}")  # output: True
 print(f"1 >= 1 and 5 > 8 ? {1 >= 1 or 5 > 8}")  # output: True
 print(f"1 > 1 and True == False ? {1 > 1 or True == False}")  # output: False
-print(f"NOT (1 > 1 and True == False) ? {not(1 > 1 or True == False)}")  # output: True - logical inverter
+print(f"not (1 > 1 and True == False) ? {not(1 > 1 or True == False)}")  # output: True - logical inverter
